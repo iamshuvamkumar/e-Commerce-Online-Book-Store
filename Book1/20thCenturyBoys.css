@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section{
+    height: auto;
+    background:linear-gradient(45deg,#ea9010,#90be6d);
+}
+.thCenturyBoysimg{
+    padding-top: 10px;
+    height: 390px;
+    width: 320px;
+}
+
+.thCenturyBoysimg img{
+    height: 100%;
+    width: 100%;
+}
+.thCenturyBoysContent{
+    padding-top: 10px;
+}
+.fa-star{
+    color: gold;
+}
+.fa-star-half{
+    color: gold;
+}
+.buynow button{
+    width: 75%;
+    background: red;
+    color: white;
+    font-size: 18px;
+}
+.AddtoWishlist button{
+    width: 75%;
+    color: white;
+    font-size: 18px;
+}
